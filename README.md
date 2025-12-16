@@ -1,3 +1,7 @@
+## Deploying and Running
+- Use npm run dev tro run locally 
+- Use npm run deploy to push the changes to github pages
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
